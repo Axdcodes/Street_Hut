@@ -27,9 +27,6 @@
 
         <?php
         include 'Components\navbar.php';
-        include 'Components\IncludeStyles.php';
-
-
         ?>
 
 
