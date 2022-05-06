@@ -121,7 +121,7 @@
                     <div class="row g-4 mb-4">
                         <div class="col-sm-6">
                             <div class="d-flex align-items-center border-start border-5 border-primary px-3">
-                                <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">15</h1>
+                                <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">3</h1>
                                 <div class="ps-4">
                                     <p class="mb-0">Years of</p>
                                     <h6 class="text-uppercase mb-0">Experience</h6>
@@ -130,10 +130,10 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="d-flex align-items-center border-start border-5 border-primary px-3">
-                                <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">50</h1>
+                                <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">8</h1>
                                 <div class="ps-4">
                                     <p class="mb-0">Popular</p>
-                                    <h6 class="text-uppercase mb-0">Master Chefs</h6>
+                                    <h6 class="text-uppercase mb-0">Masters</h6>
                                 </div>
                             </div>
                         </div>
@@ -231,16 +231,16 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h5 class="section-title ff-secondary text-center text-primary fw-normal">Team Members</h5>
-                <h1 class="mb-5">Our Master Chefs</h1>
+                <h1 class="mb-5">Our Food Artists</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item text-center rounded overflow-hidden">
                         <div class="rounded-circle overflow-hidden m-4">
-                            <img class="img-fluid" src="img/team-1.jpg" alt="">
+                            <img class="img-fluid" src="img\p1.jpg" alt="">
                         </div>
-                        <h5 class="mb-0">Full Name</h5>
-                        <small>Designation</small>
+                        <h5 class="mb-0">Micheal</h5>
+                        <small>Founder</small>
                         <div class="d-flex justify-content-center mt-3">
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -251,10 +251,10 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item text-center rounded overflow-hidden">
                         <div class="rounded-circle overflow-hidden m-4">
-                            <img class="img-fluid" src="img/team-2.jpg" alt="">
+                            <img class="img-fluid" src="img\p2.jpg" alt="">
                         </div>
-                        <h5 class="mb-0">Full Name</h5>
-                        <small>Designation</small>
+                        <h5 class=" mb-0">John</h5>
+                        <small>CEO</small>
                         <div class="d-flex justify-content-center mt-3">
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -267,8 +267,8 @@
                         <div class="rounded-circle overflow-hidden m-4">
                             <img class="img-fluid" src="img/team-3.jpg" alt="">
                         </div>
-                        <h5 class="mb-0">Full Name</h5>
-                        <small>Designation</small>
+                        <h5 class="mb-0">Peter</h5>
+                        <small>Master Artist</small>
                         <div class="d-flex justify-content-center mt-3">
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -281,8 +281,8 @@
                         <div class="rounded-circle overflow-hidden m-4">
                             <img class="img-fluid" src="img/team-4.jpg" alt="">
                         </div>
-                        <h5 class="mb-0">Full Name</h5>
-                        <small>Designation</small>
+                        <h5 class="mb-0">Watson</h5>
+                        <small>Barista</small>
                         <div class="d-flex justify-content-center mt-3">
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
