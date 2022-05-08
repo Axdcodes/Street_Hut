@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Street Hut</title>
+    <title> Home - Street Hut</title>
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -152,7 +153,7 @@
         <div class="row g-0">
             <div class="col-md-6">
                 <div class="video">
-                    <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
+                    <button type="button" class="btn-play" data-bs-toggle="modal" data-src="img/intro.mp4" data-bs-target="#videoModal">
                         <span></span>
                     </button>
                 </div>
@@ -160,7 +161,7 @@
             <div class="col-md-6 bg-dark d-flex align-items-center">
                 <div class="p-5 wow fadeInUp" data-wow-delay="0.2s">
                     <h5 class="section-title ff-secondary text-start text-primary fw-normal">Reservation</h5>
-                    <h1 class="text-white mb-4">Shop Online</h1>
+                    <h1 class="text-white mb-4">Book Online</h1>
                     <form>
                         <div class="row g-3">
                             <div class="col-md-6">
@@ -184,17 +185,18 @@
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <select class="form-select" id="select1">
-                                        <option value="1">People 1</option>
-                                        <option value="2">People 2</option>
-                                        <option value="3">People 3</option>
+                                        <option value="1">2 People</option>
+                                        <option value="2">2-5 People</option>
+                                        <option value="3">5-10 People</option>
+                                        <option value="3">More Than 10 People</option>
                                     </select>
-                                    <label for="select1">No Of People</label>
+                                    <label for="select1">No Of People (Max = 15 person) </label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control" placeholder="Special Request" id="message" style="height: 100px"></textarea>
-                                    <label for="message">Special Request</label>
+                                    <textarea class="form-control" placeholder="Special Request or Comments" id="message" style="height: 100px"></textarea>
+                                    <label for="message">Special Request or Comments</label>
                                 </div>
                             </div>
                             <div class="col-12">
@@ -211,13 +213,13 @@
         <div class="modal-dialog">
             <div class="modal-content rounded-0">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Youtube Video</h5>
+                    <h5 class="modal-title" id="exampleModalLabel">Intro Video</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <!-- 16:9 aspect ratio -->
                     <div class="ratio ratio-16x9">
-                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always" allow="autoplay"></iframe>
+                        <iframe class="embed-responsive-item" src="img\intro.mp4" id="video" allowfullscreen allowscriptaccess="always" allow=""></iframe>
                     </div>
                 </div>
             </div>

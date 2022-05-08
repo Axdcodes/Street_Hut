@@ -13,7 +13,7 @@ include 'Components\IncludeStyles.php'
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0 pe-4">
-                <a href="index.php" class="nav-item nav-link active">Home</a>
+                <a href="index.php" class="nav-item nav-link ">Home</a>
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Service</a>
                 <a href="menu.php" class="nav-item nav-link">Menu</a>
@@ -21,12 +21,11 @@ include 'Components\IncludeStyles.php'
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu m-0">
                         <a href="booking.php" class="dropdown-item">Booking</a>
-                        <a href="team.php" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
+                        <a href="testimonial.php" class="dropdown-item">Reviews</a>
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="" class="btn btn-primary py-2 px-4">Shop</a>
+            <a href="menu.php" class="btn btn-primary py-2 px-4">Shop</a>
         </div>
     </nav>

@@ -47,29 +47,20 @@ include 'IncludeStyles.php';
     </div>
     <div class="container">
         <div class="copyright">
-            <div class="row">
-                <div class="d-flex pt-2">
-                    <a class="btn btn-outline-light btn-social" href=""><i class="Fab Fa-Cc-Amex"></i></a>
-                    <a class="btn btn-outline-light btn-social" href=""><i class="Fab Fa-Cc-Mastercard "></i></a>
-                    <a class="btn btn-outline-light btn-social" href=""><i class="Fab Fa-Cc-Paypal"></i></a>
-                    <a class="btn btn-outline-light btn-social" href=""><i class="Fab Fa-Cc-Visa"></i></a>
+            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                &copy; <a class="border-bottom" href="#">Street Hut</a>, All Right Reserved.
 
-                </div>
-                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="border-bottom" href="#">Street Hut</a>, All Right Reserved.
-
-                    Made With ❤ by <a class="border-bottom" href="https://github.com/Axdcodes/">Aabidh Wadood</a><br><br>
-
-                </div>
-                <div class="col-md-6 text-center text-md-end">
-                    <div class="footer-menu">
-                        <a href="">Home</a>
-                        <a href="">Cookies</a>
-                        <a href="">Help</a>
-                        <a href="">FAQs</a>
-                    </div>
+                Made With ❤ by <a class="border-bottom" href="https://github.com/Axdcodes/">Aabidh Wadood</a>
+            </div>
+            <div class="col-md-20 text-center text-md-end">
+                <div class="footer-menu">
+                    <a href="">Home</a>
+                    <a href="">Cookies</a>
+                    <a href="">Help</a>
+                    <a href="">FAQs</a>
                 </div>
             </div>
         </div>
     </div>
+</div>
 </div>
