@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Street Hut</title>
+    <title>Menu - Street Hut</title>
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
