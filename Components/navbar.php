@@ -16,16 +16,12 @@ include 'Components\IncludeStyles.php'
                 <a href="index.php" class="nav-item nav-link ">Home</a>
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Service</a>
-                <a href="menu.php" class="nav-item nav-link">Menu</a>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                    <div class="dropdown-menu m-0">
-                        <a href="booking.php" class="dropdown-item">Booking</a>
-                        <a href="testimonial.php" class="dropdown-item">Reviews</a>
-                    </div>
-                </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
+                <a href="booking.php" class="nav-item nav-link">Booking</a>
+                <a href="testimonial.php" class="nav-item nav-link">Reviews</a>
+
             </div>
-            <a href="menu.php" class="btn btn-primary py-2 px-4">Shop</a>
         </div>
-    </nav>
+        <a href="shop\index.php" class="btn btn-primary py-2 px-4">Shop</a>
+</div>
+</nav>

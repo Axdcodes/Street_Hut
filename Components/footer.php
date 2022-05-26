@@ -11,6 +11,7 @@ include 'IncludeStyles.php';
                 <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Company</h4>
                 <a class="btn btn-link" href="">About Us</a>
                 <a class="btn btn-link" href="">Contact Us</a>
+                <a class="btn btn-link" href="shop/index.php"><i class="fa fa-shopping-bag" aria-hidden="true"></i>Shop</a>
                 <a class="btn btn-link" href="">Reservation</a>
                 <a class="btn btn-link" href="">Privacy Policy</a>
                 <a class="btn btn-link" href="">Terms & Condition</a>
@@ -48,7 +49,7 @@ include 'IncludeStyles.php';
     <div class="container">
         <div class="copyright">
             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                &copy; <a class="border-bottom" href="#">Street Hut</a>, All Right Reserved.
+                &copy; <a class="border-bottom" href="#">Street Hut</a>, All Rights Reserved.
 
                 Made With ❤ by <a class="border-bottom" href="https://github.com/Axdcodes/">Aabidh Wadood</a>
             </div>

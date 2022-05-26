@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title> Home - Street Hut</title>
+    <title> Home | Street Hut</title>
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
@@ -37,7 +37,7 @@
                     <div class="col-lg-6 text-center text-lg-start">
                         <h1 class="display-3 text-white animated slideInLeft">Enjoy Our<br>Delicious Dishes & Beverages</h1>
                         <p class="text-white animated slideInLeft mb-4 pb-2">Order your favourite Foods & Beverages Online <br> Get it Delivered to Your Doorstep</p>
-                        <a href="" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Shop Now !!</a>
+                        <a href="shop\index.php" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Shop Now !!</a>
                     </div>
                     <div class="col-lg-6 text-center text-lg-end overflow-hidden">
                         <img class="img-fluid" src="img/hero.png" alt="">
