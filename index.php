@@ -107,10 +107,10 @@
                             <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="img/about-2.jpg" style="margin-top: 25%;">
                         </div>
                         <div class="col-6 text-end">
-                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="img/about-3.jpg">
+                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="img/about-4.jpg">
                         </div>
                         <div class="col-6 text-end">
-                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="img/about-4.jpg">
+                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="img/about-3.jpg">
                         </div>
                     </div>
                 </div>
@@ -134,12 +134,12 @@
                                 <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">8</h1>
                                 <div class="ps-4">
                                     <p class="mb-0">Popular</p>
-                                    <h6 class="text-uppercase mb-0">Masters</h6>
+                                    <h6 class="text-uppercase mb-0">Dishes</h6>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+                    <a class="btn btn-primary py-3 px-5 mt-2" href="service.php">Read More</a>
                 </div>
             </div>
         </div>
