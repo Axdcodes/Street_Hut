@@ -18,7 +18,7 @@ include 'Components\IncludeStyles.php'
                 <a href="service.php" class="nav-item nav-link">Service</a>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
                 <a href="booking.php" class="nav-item nav-link">Booking</a>
-                <a href="testimonial.php" class="nav-item nav-link">Reviews</a>
+                
 
             </div>
         </div>
