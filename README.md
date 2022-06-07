@@ -17,15 +17,13 @@ Password: axd1234
 
 
 
-
-
-DON'T FORGET  IMPORT THE SQL FILE TO PHPADMIN OR DATABASE HOST.
+IMPORT THE SQL FILE TO PHPADMIN OR DATABASE HOST.
 >>DATABASE FILE IS INSIDE "db" FOLDER!
 
 
-To send Mails Please use a SMTP server This project uses a AWS SES in sandbox version so Only verified mails can receive mails 
+To send Mails Please use a SMTP server This project uses a AWS SES in sandbox version so Only verified mails can send & receive mails 
 
-Ive provided some Test Card Credentials to check PayPal payment Gateway and Provide Information
+I've provided some Test Card Credentials to check PayPal payment Gateway and Provide mock Information 
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
 
